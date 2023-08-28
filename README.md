@@ -22,6 +22,9 @@ For the second challenge, I worked on customer churn prediction using two datase
 ### Machine Learning Model
 I built a machine learning model with a predictive algorithm to predict customer churn. The model used the data training set for training and was then evaluated on the data test set to assess its performance.
 
+[Data Train](https://github.com/gilangalauddin/FGA_KominfoxBinarAcademy_DataScience/blob/master/Data%20Train.csv)
+[Data Test](https://github.com/gilangalauddin/FGA_KominfoxBinarAcademy_DataScience/blob/master/Data%20Test.csv)
+
 ### Code and Results
 The code for the machine learning model, along with the results and evaluation metrics, can be found in the following Jupyter Notebook:
 
