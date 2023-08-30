@@ -10,11 +10,11 @@ I was provided with a COVID-19 in Indonesia dataset and then given 5 questions a
 [COVID-19 Indonesia Dataset on Google BigQuery](https://console.cloud.google.com/bigquery?sq=483474444483:f47e23bb96bb43d5a87330c693e8918e)
 
 ### Looker Studio Dashboard
-As part of the project, I created a Looker Studio (formerly Google Data Studio) dashboard using the COVID-19 dataset. The dashboard is designed to answer questions related to the dataset. You can view the dashboard by clicking this image:
-![Capture](https://github.com/gilangalauddin/FGA_KominfoxBinarAcademy_DataScience/assets/138756579/58feb883-587b-4ded-a380-79749c0f3105)
-
+As part of the project, I created a Looker Studio (formerly Google Data Studio) dashboard using the COVID-19 dataset. The dashboard is designed to answer questions related to the dataset. You can view the dashboard by clicking this link below:
 
 [Looker Studio COVID-19 Dashboard](https://lookerstudio.google.com/u/0/reporting/36af1b4c-5adb-4422-aac3-79b89ca91b3f/page/wr7ID)
+
+![Capture](https://github.com/gilangalauddin/FGA_KominfoxBinarAcademy_DataScience/assets/138756579/58feb883-587b-4ded-a380-79749c0f3105)
 
 I understand that Tableau is one of the most popular dashboarding platforms in the industry. I am currently working on creating a Tableau version of the COVID-19 dashboard to provide additional visualization options. Stay tuned for updates on this exciting addition!
 
