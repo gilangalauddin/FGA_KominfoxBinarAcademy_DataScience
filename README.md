@@ -7,7 +7,7 @@ This repository contains the results of my work during the Data Science Bootcamp
 ### Data Source
 I was provided with a COVID-19 dataset for Indonesia, which I queried using Google BigQuery. Due to limitations in exporting queries, you can access the dataset and the specific queries I used through the following link:
 
-[COVID-19 Indonesia Dataset on Google BigQuery](https://console.cloud.google.com/bigquery?sq=483474444483:f47e23bb96bb43d5a87330c693e8918e)
+[![Capture](https://github.com/gilangalauddin/FGA_KominfoxBinarAcademy_DataScience/assets/138756579/58feb883-587b-4ded-a380-79749c0f3105)](https://console.cloud.google.com/bigquery?sq=483474444483:f47e23bb96bb43d5a87330c693e8918e)
 
 ### Looker Studio Dashboard
 As part of the project, I created a Looker Studio (formerly Google Data Studio) dashboard using the COVID-19 dataset. The dashboard is designed to answer questions related to the dataset. You can view the dashboard by clicking this image:
